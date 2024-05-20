@@ -22,8 +22,9 @@
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjst&logoColor=white">
 <br/>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -65,6 +66,24 @@
     <th>Period</th>
     <th>State</th>
   </tr>
+<tr>
+    <td>Tripeer</td>
+    <td>▪ 실시간 여행 협업 플랫폼</td>
+    <td>
+          <img src="https://img.shields.io/badge/3-Backend-83B81A?style=flat-square"/><br>
+          <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Frontend%20-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      2024.04.08
+      <br/>~
+      <br/>2024.05.20
+    </td>
+    <td><img src="https://img.shields.io/badge/Proceeding-bfe1f6?style=flat-square"/></td>
+    
+  </tr>
   <tr>
     <td>iBalance</td>
     <td>▪ 빅데이터를 활용한 어린이 식단 추천 서비스</td>
@@ -80,7 +99,7 @@
       <br/>~
       <br/>2024.04.05
     </td>
-    <td><img src="https://img.shields.io/badge/Proceeding-bfe1f6?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
     
   </tr>
   <tr>
