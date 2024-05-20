@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjst&logoColor=white">
+  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <br/>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -142,7 +142,9 @@
 </table>
 <h2>🏆 Awards</h2>
 <div>
-	<p>▪ 2023.12 삼성 청년 SW 아카데미 1학기 프로젝트 우수상 수상  (삼성전자 주식회사)</p>
+	<p>▪ 2024.04 삼성 청년 SW 아카데미 2학기 특화 프로젝트 우수상 수상  (삼성전자 주식회사)</p>
+	<p>▪ 2024.04 삼성 청년 SW 아카데미 2학기 특화 프로젝트 UCC 경진대회 입상 수상  (삼성전자 주식회사)</p>
+	<p>▪ 2023.12 삼성 청년 SW 아카데미 1학기 관통 프로젝트 우수상 수상  (삼성전자 주식회사)</p>
 </div>
 <h2>📞 Contact</h2>
 <div style="display:flex; flex-direction:row;">
