@@ -22,7 +22,7 @@
   <h2>🙋‍♀️ I AM</h2>
   <p>◾ 프론트엔드를 희망하는 현지혜입니다. </p>
   <p>◾ '메디컬IT융합공학과'를 전공하였습니다.</p>
-  <p>◾ 현재 삼성 SW 청년 아카데미 교육중입니다.</p>
+  <p>◾ 현재 삼성 SW 청년 아카데미 10기를 수료하였습니다.</p>
 </div> -->
 
 <div>
@@ -39,7 +39,7 @@
 <h3>Frontend Tools & Language</h3>
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -48,8 +48,11 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/zustand-1F4ECF?style=for-the-badge&logo=zustand&logoColor=white">
+  <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white">
 	
 </div>
@@ -83,6 +86,29 @@
     <th>My Role</th>
     <th>Period</th>
     <th>State</th>
+  </tr>
+<tr>
+    <td>Tripeer VER.2.0</td>
+    <td>▪ 트리피어 프로젝트 리팩토링 <br>
+    ▪ 웹사이트: [트리피어 사이트 링크](https://tripeer.co.kr/) <br>
+  ▪ 앱 스토어 링크:<br>
+    - iOS 앱: [App Store 링크](https://apps.apple.com/kr/app/%ED%8A%B8%EB%A6%AC%ED%94%BC%EC%96%B4/id6736443613)<br>
+    - 안드로이드 앱: 현재 심사 중
+    </td>
+    <td>
+          <img src="https://img.shields.io/badge/3-Backend-83B81A?style=flat-square"/><br>
+          <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Frontend%20-31A8FF?style=flat-square"/>
+    </td>
+    <td>
+      2024.04.08
+      <br/>~
+      <br/>2024.05.20
+    </td>
+    <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
+    
   </tr>
 <tr>
     <td>Tripeer</td>
