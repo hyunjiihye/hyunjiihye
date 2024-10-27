@@ -3,6 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&fontColor=363833&height=250&text=Jihye%20Hyun🍋&fontSize=50&color=0:FFFF62,100:C9FA7D" />
 </div>
 <div>
+## Portfolio
+<!-- [![Portfolio Preview](./HYUNJIHYE_Portfolio.pdf)](./HYUNJIHYE_Portfolio.pdf) -->
+[Click here to view my portfolio](./HYUNJIHYE_Portfolio.pdf)
+<hr></hr>
+
 <h2 align="center">Frontend</h2>
 <h4 align="center">서비스를 처음부터 다시 개발하는 과정이 어렵고 힘들지라도</h4>
 <h4 align="center">사용자 경험을 개선할 수 있는 기회라면 언제든 문제를 해결하기 위해 노력할 준비가 되어 있습니다.</h4>
