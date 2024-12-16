@@ -108,9 +108,9 @@
       <img src="https://img.shields.io/badge/Frontend%20-31A8FF?style=flat-square"/>
     </td>
     <td>
-      2024.04.08
+      2024.08.26
       <br/>~
-      <br/>2024.05.20
+      <br/>2024.10.02
     </td>
     <td><img src="https://img.shields.io/badge/Completed-004088?style=flat-square"/></td>
     
